@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-clang"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-clang component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
